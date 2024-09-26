@@ -1,10 +1,10 @@
-# Project Name
+# Plantilla de Ciencia de Datos con Cookiecutter
 
 ## Descripción
 
 Este repositorio contiene una plantilla de Cookiecutter para proyectos de ciencia de datos. Utiliza esta plantilla para crear proyectos estructurados con scripts para la preparación de datos, la creación de características, el entrenamiento de modelos y la visualización.
 
-## Estructura del Proyecto
+## Estructura general del proyecto
 
 Una vez que utilices esta plantilla para crear un proyecto, la estructura de tu repositorio será la siguiente:
 
@@ -54,7 +54,7 @@ Una vez que utilices esta plantilla para crear un proyecto, la estructura de tu 
 
 ## ¿Cómo usar la plantilla?
 
-1. **Crea un nuevo proyecto con Cookiecutter:**
+**Ingresa el siguiente comando en la terminal de Visual Studio Code:**
 
    ```bash
    cookiecutter https://github.com/Sebdrick/Plantilla_Cookiecutter_DS.git
